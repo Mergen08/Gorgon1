@@ -2,9 +2,10 @@
 2.  Phone number +7-176-11-25
 3.  I want to create a website
 4.  I learn mathematics and informatics
-5.  <div class="container">
-  <header>Welcome!</header>
-  <nav>Links!</nav>
-  <section class="info">Info!</section>
-  </div>
+5.  <#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+#include<strings.h>
+#include<time.h>
+>
 6.  
