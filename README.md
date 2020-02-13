@@ -1,2 +1,2 @@
 1.Petrov Mergen Naranovich
-Phone number +7-176-11-25
+2.Phone number +7-176-11-25
