@@ -9,4 +9,4 @@
       #include<time.h>
 6.  I am a student
 7.  I am a student
-8.  Intermediate
+8.  Pre-intermediate
