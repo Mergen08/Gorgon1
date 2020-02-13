@@ -6,6 +6,5 @@
 #include<stdlib.h>
 #include<string.h>
 #include<strings.h>
-#include<time.h>
->>
+#include<time.h>>
 6.  
