@@ -7,4 +7,5 @@
 #include<string.h>
 #include<strings.h>
 #include<time.h>>
-6.  
+6.  I am a student
+7.  I am a student
